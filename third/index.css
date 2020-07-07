@@ -1,0 +1,51 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.one {
+  background-color: lightgrey;
+  height: 14vh;
+  width: 100vw;
+  padding: 10px;
+}
+
+.box {
+  width: 80px;
+  height: 80px;
+  background-color: #4a90e2;
+}
+
+.two {
+  background-color: white;
+  height: 30vh;
+  width: 100vw;
+}
+
+#text {
+  text-align: center;
+}
+
+.three {
+  background-color: blue;
+  height: 14vh;
+  width: 100vw;
+}
+
+.four {
+  background-color: aqua;
+  height: 14vh;
+  width: 100vw;
+}
+
+.five {
+  background-color: lightgreen;
+  height: 14vh;
+  width: 100vw;
+}
+
+.six {
+  background-color: yellow;
+  height: 14vh;
+  width: 100vw;
+}

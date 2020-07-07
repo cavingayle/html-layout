@@ -1,0 +1,73 @@
+.topBox {
+  border: black;
+  border-style: solid;
+  height: 30vh;
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.boxOne {
+  float: left;
+  height: 60%;
+  width: 5%;
+  background-color: purple;
+  margin: 2%;
+}
+
+.boxTwo {
+  height: 80%;
+  width: 40%;
+  background-color: green;
+  margin: 0 50;
+  float: left;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: mediumblue;
+  height: 70%;
+  width: 30%;
+  float: left;
+  margin: 20px;
+  display: inline-block;
+}
+
+.middleBox {
+  border: black;
+  border-style: dotted;
+  height: 30vh;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 5vh;
+}
+
+.box-shadow {
+  width: 80%;
+  height: 200px;
+  background-color: lemonchiffon;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.bottomBox {
+  text-align: center;
+  width: 50%;
+  border: 1px solid #ccc;
+  background-color: white;
+  padding: 100px;
+  box-sizing: border-box;
+  margin: 25px auto;
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.bottomBox h1 {
+  width: 100%;
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+}
